@@ -16,6 +16,6 @@ This is where I try to predict a predefined and labeled events from 4000+ time s
 This is where I use logistic regression to predict lead score for customers for a financial lending company 
 
 ### FZ_SVM
-This is a project using a set of rocket launch data to predict the successful launch results for SpaceX
+This is a project using a set of rocket launch data to predict the successful launch results for SpaceX. This is the final Capstone project for IBM Data Science certificate.
 
 
