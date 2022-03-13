@@ -6,7 +6,7 @@ Demo projects of Fuge Zou
 This is an example where I built a pipeline for importing and cleaning of raw data from a SQL query in the public database. 
 There are over 30 schema and data requirement need to be made before going to the statistical modeling process
 
-### FZ_DNN and FZ_XGBOost
+### FZ_DNN and FZ_XGBoost
 This is where I tested deep neural network (DNN) and XGBoost for the same dataset, and compare the results 
 
 ### FZ_RNN
